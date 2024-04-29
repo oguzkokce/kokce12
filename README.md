@@ -2,6 +2,7 @@
 
 ## Create .env file
 Create a .env file to store your MongoDB database credentials
+
 Example only (copy the full connection string from MongoDB):
 ```
 MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.6m5cz.mongodb.net/
